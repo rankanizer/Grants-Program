@@ -1,4 +1,4 @@
-# polkadart
+# Polkadart
 
 License: Apache 2.0
 
@@ -148,13 +148,13 @@ https://polkadot.js.org/docs/api/start
 
 - **Total Estimated Duration:** 4 months.
 - **Full-Time Equivalent (FTE):** 4.
-- **Total Costs:** USD$50.000,00.
+- **Total Costs:** USD$30.000,00.
 
 ### 🚩 Milestone 1 — 
 
 - **Estimated duration:** 1 month.
 - **FTE:**  4.
-- **Costs:** 12,500 USD.
+- **Costs:** 7,500 USD.
 
 |Number|Deliverable|    Specification                   |
 |:---: |  ---      |             ---                    |
@@ -171,7 +171,7 @@ https://polkadot.js.org/docs/api/start
 
 - **Estimated duration:** 1 month.
 - **FTE:**  4.
-- **Costs:** 12,500 USD.
+- **Costs:** 7,500 USD.
 
 |Number|Deliverable|    Specification                   |
 |:---: |  ---      |             ---                    |
@@ -185,7 +185,7 @@ https://polkadot.js.org/docs/api/start
 
 - **Estimated duration:** 1 month.
 - **FTE:**  4.
-- **Costs:** 12,500 USD.
+- **Costs:** 7,500 USD.
 
 |Number|Deliverable|    Specification                   |
 |:---: |  ---      |             ---                    |
@@ -200,7 +200,7 @@ https://polkadot.js.org/docs/api/start
 
 - **Estimated duration:** 1 month.
 - **FTE:**  4.
-- **Costs:** 12,500 USD.
+- **Costs:** 7,500 USD.
 
 |Number|Deliverable       |    Specification                                                                                         |
 |:---: |  ---             |             :---                                                                                         |
