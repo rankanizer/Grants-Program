@@ -86,6 +86,16 @@ Lohann have a deep understanding of Polkadot/Substrate stack amongst other block
 👔 [linkedin](https://www.linkedin.com/in/lohannferreira/)
 <br/>
 
+[<img align="left" height="170px" width="170px" alt="Fabio's pic" src="https://media-exp1.licdn.com/dms/image/C4D03AQGWxCh9UJMx9w/profile-displayphoto-shrink_800_800/0/1651247487468?e=1662595200&v=beta&t=TB-ZoRxro7mesWzuZFIgzNFL1zzMbVtEich-28pPOc8"/>](https://www.linkedin.com/in/binder/)
+
+**Fábio Binder** \
+[**Jurimetric**](https://jurimetric.com.br/) • Blockchain Engineer \
+Binder has over 25 years of experience with development. Currently, he is the Program Head at PUCPR of the [Apple Developer Academy](https://www.linkedin.com/company/apple-developer-academy-pucpr/mycompany/). He was recognized as an Apple Distinguished Educator in 2019, for doing amazing things with Apple technology in and out of the classroom. He joined Jurimetric because he wants to be a part of the Web 3 movement as a hands-on developer of blockchain technology. \
+🚀 [Github](https://github.com/binderman) **|** 
+👔 [linkedin](https://www.linkedin.com/in/binder/)
+<br/>
+<br>
+
 [<img align="left" height="170px" width="170px" alt="Hanna's pic" src="https://media-exp1.licdn.com/dms/image/C4E03AQH8scUumXYt_A/profile-displayphoto-shrink_200_200/0/1653604891904?e=2147483647&v=beta&t=VcDIj1WVsgeRDHp8d4s-qV3oKcFoEr1ArLf-pTe_OXs"/>](https://www.linkedin.com/in/hannapcf/)
 
 **Hanna Coutinho** \
@@ -115,16 +125,6 @@ Luiza is Jurimetric's Product Manager. She founded a legal tech called Arbi-ON a
 👔 [linkedin](https://www.linkedin.com/in/luizaadenaengers/)
 <br/>
 <br>
-<br>
-
-[<img align="left" height="170px" width="170px" alt="Fabio's pic" src="https://media-exp1.licdn.com/dms/image/C4D03AQGWxCh9UJMx9w/profile-displayphoto-shrink_800_800/0/1651247487468?e=1662595200&v=beta&t=TB-ZoRxro7mesWzuZFIgzNFL1zzMbVtEich-28pPOc8"/>](https://www.linkedin.com/in/binder/)
-
-**Fábio Binder** \
-[**Jurimetric**](https://jurimetric.com.br/) • Blockchain Engineer \
-Binder has over 25 years of experience with development. Currently, he is the Program Head at PUCPR of the [Apple Developer Academy](https://www.linkedin.com/company/apple-developer-academy-pucpr/mycompany/). He was recognized as an Apple Distinguished Educator in 2019, for doing amazing things with Apple technology in and out of the classroom. He joined Jurimetric because he wants to be a part of the Web 3 movement as a hands-on developer of blockchain technology. \
-🚀 [Github](https://github.com/binderman) **|** 
-👔 [linkedin](https://www.linkedin.com/in/binder/)
-<br/>
 <br>
 
 [<img align="left" height="170px" width="170px" alt="Gabriel's pic" src="https://media-exp1.licdn.com/dms/image/C4D03AQH2tAs4JxtEsw/profile-displayphoto-shrink_800_800/0/1653438677847?e=1662595200&v=beta&t=i3b62F1Er4wxGsdpo3dsjllPqFzKKPRechmdazWgGqw"/>](https://www.linkedin.com/in/gabriel-motelevicz-okura-aa95491b6/)
@@ -230,8 +230,17 @@ Lohann was informed about the Grants Program by personal recommendation.
 [Efinity](https://efinity.io) \
 [Collectiba](https://www.youtube.com/watch?v=QftJoDz2JXU)
 
+**Binder's previous work:** \
+[Software project: Cluster](https://clusterforchange.com/) - Social Impact Platform. Project Manager, Software Architect. \
+[Award: Apple Distinguished Educator 2019](https://www.apple.com/education/k12/apple-distinguished-educator/) \
+[PHD Thesis](https://pergamum-biblioteca.pucpr.br/acervo/338937) \
+[StackOverflow: 12.000+ points (top 3% overall)](https://stackoverflow.com/users/86154/fabio-vinicius-binder) \
+[Personal Researcher Profile on Scopus](https://www.scopus.com/authid/detail.uri?authorId=56730458300)
+
 **Kawal's previous work:** \
 [AnimatedText](https://github.com/justkawal/animated_text) \
 [Protect](https://github.com/justkawal/protect) \
 [Tenor](https://github.com/justkawal/tenor) \
 [Excel](https://github.com/justkawal/excel)
+
+
