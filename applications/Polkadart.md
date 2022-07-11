@@ -6,7 +6,7 @@ License: Apache 2.0
 
 - **Project Name:** Polkadart
 - **Team Name:** JURIMETRIC TECNOLOGIA LTDA.
-- **Payment Address:** BTC, Ethereum (USDT/USDC/DAI) or Polkadot/Kusama (aUSD) payment address. Please also specify the currency. (e.g. 0x8920... (DAI))
+- **Payment Address:** 12kizkmmQzRFR5o6BQ5Kufo77RPT787eaFynswQoi42vv2Da (DOT)
 - **[Level]:** 2
 <br><br/>
 ## 📄 Project Overview 
